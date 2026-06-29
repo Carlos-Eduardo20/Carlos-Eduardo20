@@ -1,24 +1,36 @@
+# Olá! Eu sou o Carlos Eduardo 🖐️
+  🎯 Estudante de Ciência da Computação<br>
+  📚 Atualmente estudando C, JavaScript e Java<br>
+    🇺🇸 Inglês: Básico → Intermediário<br>
 
-### Olá! Eu sou o Carlos Eduardo 🖐️
-  - Estudando C, Javascript e JAVA
-  - Estou sendo formado em Ciência da Computação
-  - Inglês Básico para o intermediário
+## 👨‍💻Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Carlos-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Carlos-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Carlos-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Carlos-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Carlos-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Carlos-C" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Carlos-Java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Carlos-Kotlin" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-<br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=tokyonight)
+## 📊 Minhas Estatísticas
+<div align="center">
+  <a href="https://github.com/Carlos-Eduardo20">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
 
-##
+## 🔥 Quantidade de commits
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Carlos-Eduardo20&theme=tokyonight" />
+</div>
+
+## Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosconnection4/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-09a050212/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Carlos-Morais-70)
