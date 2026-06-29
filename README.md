@@ -20,7 +20,6 @@
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=donut)](https://github.com/Carlos-Eduardo20/github-readme-stats)
 
 ##
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/CarlosEduardo323)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosconnection4/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-09a050212/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://pt.quora.com/profile/Carlos-Morais-70)
