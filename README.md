@@ -16,8 +16,7 @@
 </div>
 <br>
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=tokyonight) <br>
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=donut)](https://github.com/Carlos-Eduardo20/github-readme-stats)
+
 
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosconnection4/)
