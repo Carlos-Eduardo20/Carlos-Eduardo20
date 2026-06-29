@@ -16,13 +16,16 @@
   <img align="center" alt="Carlos-SQL" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-## 📊 Minhas Estatísticas
-<div align="center">
-  <a href="https://github.com/Carlos-Eduardo20">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Eduardo20&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlos-Eduardo20&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Eduardo20&theme=tokyonight" />
+</p>
 
 ## 🔥 Quantidade de commits
 
