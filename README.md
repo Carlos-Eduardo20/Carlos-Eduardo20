@@ -16,10 +16,7 @@
 </div>
 <br>
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo18&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo18&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=tokyonight)
 
 ##
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlosconnection4/)
