@@ -16,8 +16,8 @@
 </div>
 <br>
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo18&show_icons=true&theme=tokyonight) <br>
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo18&layout=donut)](https://github.com/Carlos-Eduardo18/github-readme-stats)
+![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlos-Eduardo20&show_icons=true&theme=tokyonight) <br>
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=donut)](https://github.com/Carlos-Eduardo20/github-readme-stats)
 
 ##
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/CarlosEduardo323)
