@@ -1,4 +1,4 @@
-# Olá! Eu sou o Carlos Eduardo 🖐️
+# Olá! Sou o Carlos Eduardo 🖐️
   🎯 Estudante de Ciência da Computação<br>
   📚 Atualmente estudando C, JavaScript e Java<br>
     🇺🇸 Inglês: Básico → Intermediário<br>
