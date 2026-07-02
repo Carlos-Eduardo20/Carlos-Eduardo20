@@ -19,18 +19,18 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Eduardo20&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Eduardo20&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlos-Eduardo20&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Eduardo20&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Carlos-Eduardo20&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Carlos-Eduardo20&theme=tokyonight"/>
 </p>
 
 ## 🔥 Quantidade de commits
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Carlos-Eduardo20&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Carlos-Eduardo20&theme=tokyonight"/>
 </div>
 
 ## Contatos
