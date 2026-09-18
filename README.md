@@ -31,7 +31,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 Clique no ícone abaixo para acessar a minha rede:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/carlos-eduardo20/" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-moraisdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
