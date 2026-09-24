@@ -17,7 +17,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 ## 🔥 Linguagem mais usada
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linguagens-C%20%7C%20Java%20%7C%20Python%20%7C%20JS-dracula?style=for-the-badge&labelColor=282a36" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=pie&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" />
 </p>
 
 ### 📂 Projetos Principais
