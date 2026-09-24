@@ -14,7 +14,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 | **Front-end** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="28" height="28"/>|
 | **Banco de Dados** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="28" height="28"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="28" height="28"/> |
 
-## 🔥 Linguagem mais usada
+## 🔥 Linguagens mais usadas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=pie&theme=dracula&hide_border=true" alt="Linguagens Mais      Usadas"/>
 </p>
