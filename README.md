@@ -16,7 +16,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 
 ## 🔥 Linguagens mais usadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-Eduardo20&layout=pie&theme=dracula&hide_border=true" alt="Linguagens Mais      Usadas"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-Eduardo20&theme=dracula" alt="Linguagens mais usadas" />
 </p>
 
 ### 📂 Projetos Principais
