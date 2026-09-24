@@ -22,7 +22,7 @@ Para deixar o visual mais moderno, aqui estão as tecnologias organizadas por ca
 ### 📂 Projetos Principais
 
 * **[Novo Portfólio Dev](https://github.com/Carlos-Eduardo20):** Meu portfólio pessoal moderno para expor meus projetos e evolução.
-* **[Lista de Exercícios em C](https://github.com/Carlos-Eduardo20):** Repositório focado no aprofundamento de lógica de programação.
+* **[ Projeto HelpiTI](https://github.com/Carlos-Eduardo20):** Repositório com projeto para ajudar técnicos helpdesk na resolução de chamados.
 * **[Estudos de Recursividade](https://github.com/Carlos-Eduardo20):** Desafios práticos aplicando conceitos de recursão em C.
 
 ### 🌐 Vamos nos conectar?
